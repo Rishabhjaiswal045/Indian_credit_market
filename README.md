@@ -5,10 +5,10 @@
 
 ![Dashboard Demo](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Credit%20Card%20Analytics&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Power%20BI%20Dashboard%20for%20Market%20Intelligence&descAlignY=55&descSize=18)
 
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C947?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1B1B1B)](https://powerbi.microsoft.com/)
-[![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1B1B1B)](https://docs.microsoft.com/en-us/dax/)
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=1B1B1B)](https://www.microsoft.com/excel)
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6B6B?style=for-the-badge&logo=chart-dot-js&logoColor=white&labelColor=1B1B1B)](#)
+[![](https://img.shields.io/badge/Business_Intelligence-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=404040)](https://powerbi.microsoft.com/)
+[![DAX Mastery](https://img.shields.io/static/v1?label=🧮%20DAX&message=Formula%20Language&color=0078D4&style=plastic&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/dax/)
+[![](https://img.shields.io/badge/Microsoft-Excel%20Professional-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=1a1a1a)](https://www.microsoft.com/excel)
+[![Analytics](https://img.shields.io/badge/📊_Data-Visualization%20%26%20Analysis-orange?style=flat&logo=chart-dot-js&logoColor=white&labelColor=2c3e50)](#)
 
 </div>
 
